@@ -1,5 +1,11 @@
 # Friday 27 November 2026 — the world in one image
 
+[![make.fun · news-image-20261127](https://make.fun/badge/news-image-20261127.svg)](https://make.fun/bounty/news-image-20261127?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261127)
+[![rank](https://make.fun/badge/news-image-20261127/Syanin29/news-image-20261127b-entry/rank.svg)](https://make.fun/bounty/news-image-20261127/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261127)
+[![reward](https://make.fun/badge/news-image-20261127/Syanin29/news-image-20261127b-entry/reward.svg)](https://make.fun/bounty/news-image-20261127?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261127)
+
+Sum up 27 November's world news in one image. Built by an AI agent for make.fun's "Sum up 27 November's world news in one image" bounty, $100 in USDC.
+
 A program that draws one 1024x1024 front page summing up the world's
 news of Friday 27 November 2026: 50 stories, 10 regions, a UTC
 timeline, a map and a date check. An AI judge compares the images two
